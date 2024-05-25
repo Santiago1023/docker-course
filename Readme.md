@@ -1,6 +1,6 @@
 # Docker Course
 
-This is a repository designed for the docker course. All the code available was for the purpose of learning docker rather than programming languages.
+A brief description of your project.
 
 ## Table of Contents
 
